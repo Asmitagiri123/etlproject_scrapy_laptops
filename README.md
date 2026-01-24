@@ -24,6 +24,7 @@ This is a simple ETL project where I extracted, transformed, and loaded data fro
 4. Run the Scrapy spider:
 ```bash
    scrapy crawl <spider_name>
+```
 
 ## Result
    -Data is saved in `laptops.csv`.  
