@@ -35,6 +35,10 @@ This is a simple ETL project where I extracted, transformed, and loaded data fro
 - Data is loaded into MySQL table etl_tb under database etl_db.
 
 - Airflow DAG successfully runs the ETL pipeline on schedule.
+## Sample CSV Output
 
+Here is a snapshot of the extracted laptops data:
+
+![Laptops CSV](images/laptops_csv.png)
 
 
