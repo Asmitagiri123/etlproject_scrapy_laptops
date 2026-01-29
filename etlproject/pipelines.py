@@ -21,7 +21,7 @@ class EtlprojectPipeline:
     def create_connection(self):
         self.conn = mysql.connector.connect(
             host="localhost",
-            user="root",
+            user="etl_user",
             passwd="#Computer143@",
             database="etl_db"
         )
