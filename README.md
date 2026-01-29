@@ -36,12 +36,5 @@ This is a simple ETL project where I extracted, transformed, and loaded data fro
 
 - Airflow DAG successfully runs the ETL pipeline on schedule.
 
-- Sample of scraped laptops:
-| Name               | Price  | Reviews |
-|-------------------|--------|---------|
-| Dell Inspiron 15   | 45000  | 4.5     |
-| HP Pavilion 14     | 47000  | 4.6     |
-| Lenovo IdeaPad 3   | 43000  | 4.4     |
 
-   
 
